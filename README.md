@@ -1,5 +1,3 @@
-# ServidorESP32
-
 # Projeto: Servidor Web com ESP32
 
 ## 📋 Descrição
